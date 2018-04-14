@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>NOS</title>
+  <link rel="stylesheet" type="text/css" href="/static/style.css">
+</head>
+
+<body>
+  <header>
+    <div><h1>Log In</h1></div>
+    <div class='right'><a href='/'><button>Home</button></a></div>
+  </header>
+  <div style='height:100px;'></div>
+
+  <br /><br />
+  <form onsubmit="return false" class='center'>
+    <p>Username:</p>
+    <input class='infobox' id="username"> <br /><br />
+    <p>Password:</p>
+    <input class='infobox' type="password" id="password"> <br /><br />
+    <button onclick="login()">Log In</button>
+  </form>
+  <br /><br />
+  <a href='/static/newacct.html'><h3 class='center'>I don't have an account.</h3></a>
+  <script src='/static/login.js'></script>
+</body>
+</html>
