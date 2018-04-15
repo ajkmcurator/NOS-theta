@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ajkmcurator/nos-theta.git"
+    "url": "git+https://github.com/ajkmcurator/NOS-theta.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "",
   "bugs": {
-    "url": "https://github.com/EPiC-Inc/nos-alpha/issues"
+    "url": "https://github.com/ajkmcurator/NOS-theta/issues"
   },
-  "homepage": "https://github.com/EPiC-Inc/nos-alpha#readme",
+  "homepage": "https://github.com/ajkmcurator/NOS-theta#readme",
   "dependencies": {
     "express": "^4.16.3",
     "npm": "^5.8.0",
